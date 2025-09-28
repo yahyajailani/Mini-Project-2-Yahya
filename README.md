@@ -3,14 +3,12 @@ YAHYA JAILANI I 2509116085 I SISTEM INFORMASI C
 
 #Output Karyawan
 <img width="373" height="351" alt="minpro 2 output (Karyawan)" src="https://github.com/user-attachments/assets/946d8863-dc3b-4c70-906a-b88ca4b2f9a9" />
-
 Output dari Karyawan hanya ada 2 yaitu:
 
 1. tampilkan barang
    barang yang ada disediakan oleh manager
 2. keluar
    yang berarti telah close penjualan dan menutup aplikasi LUNApos
-   
 #Output Manager
 <img width="412" height="355" alt="minpro 2 output (manager) (1)" src="https://github.com/user-attachments/assets/1c44a78f-76b5-4441-8e3c-8edd3560172c" />
 <img width="321" height="362" alt="minpro 2 output (manager) (2 dan 3)" src="https://github.com/user-attachments/assets/822a9601-b760-4a69-83b3-79328b51f6e5" />
@@ -27,7 +25,6 @@ Output dari Manager terbagi menjadi 5 yaitu:
    jika barang tidak laku atau kurang peminat karna kualitas yang memburuk
 5. keluar
    apabila semua menu telah jadi dan siap digunakan
-   
 #Output Salah
 <img width="319" height="176" alt="minpro 2 Salah" src="https://github.com/user-attachments/assets/8c7dae8b-36dc-4ccd-9264-8625bb997304" />
 Output Salah ini terjadi ketika ada salah penginputan suatu data seperti password serta code barang
