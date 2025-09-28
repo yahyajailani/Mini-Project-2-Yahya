@@ -38,7 +38,7 @@ Output dari Manager terbagi menjadi 5 yaitu:
 
 <img width="319" height="176" alt="minpro 2 Salah" src="https://github.com/user-attachments/assets/8c7dae8b-36dc-4ccd-9264-8625bb997304" />
 
-Output Salah ini terjadi ketika ada salah penginputan suatu data seperti password serta code barang
+Output Salah ini terjadi ketika ada kesalahan dalam penginputan suatu data seperti password serta code barang
 
 
 # Code
